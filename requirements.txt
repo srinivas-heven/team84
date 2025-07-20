@@ -1,6 +1,7 @@
+python-3.10
 streamlit
 numpy
-opencv
+opencv-python-headless>=4.10.0
 Pillow
 scipy
 scikit-learn
@@ -10,4 +11,4 @@ pandas
 matplotlib
 seaborn
 scikit-image
-python-3.10
+
