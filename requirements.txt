@@ -10,3 +10,4 @@ pandas
 matplotlib
 seaborn
 scikit-image
+python-3.10
