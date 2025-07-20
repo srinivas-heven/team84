@@ -65,5 +65,4 @@ Designed for environmental professionals, researchers, and emergency responders 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-risk-assessment-platform.git
-cd ai-risk-assessment-platform
+git clone https://github.com/srinivas-heven/team84.git
